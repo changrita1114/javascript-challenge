@@ -15,6 +15,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
   * Table columns: `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 * A date form in the HTML document was used and JavaScript code was wriiten that listen for events and search through the `date/time` column to find rows that match user input.
 
+![app_level1](https://github.com/changrita1114/javascript-challenge/blob/main/UFO-level-1/img/level_1.png?raw=true)
+
 #### Level 2: Multiple Search Categories 
 * Multiple `input` tags was used, so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
   1. `date/time`
